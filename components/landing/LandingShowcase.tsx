@@ -20,8 +20,8 @@ export function LandingShowcase() {
                             LA MESA DONDE TODO SE DECIDE
                         </p>
                         <p className="pedro-hint max-w-md text-lg md:text-xl">
-                            Moneda, dominio, robos y Pedro. Un duelo táctico con reglas
-                            profundas y partidas intensas.
+                            Pesetas, dominios, robos y favores. Un duelo táctico con reglas profundas,
+                            personalización ilimitada y partidas intensas.
                         </p>
                     </div>
                 </div>

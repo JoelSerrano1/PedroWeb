@@ -37,8 +37,8 @@ export function LandingHero() {
                     </p>
 
                     <p className="pedro-hint mx-auto md:mx-0 mt-4 max-w-lg text-lg leading-relaxed opacity-90">
-                        Página oficial del juego: descubre el mapa, el combate y las
-                        plataformas. Aquí no se juega - solo se conoce la fortuna.
+                        Página oficial del juego: descubre el mapa, el combate y los favores que te acompañarán en el camino.
+                        Aquí no se juega - solo se conoce la fortuna.
                     </p>
 
                     <div className="mt-10 flex w-full max-w-sm flex-col items-center gap-4 md:items-start">

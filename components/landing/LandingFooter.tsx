@@ -11,7 +11,7 @@ export function LandingFooter() {
                 className="mx-auto mb-4 h-auto w-28 opacity-80"
                 style={{ imageRendering: "pixelated" }}
             />
-            <p className="pedro-hint text-lg">Pedro — La cruzada</p>
+            <p className="pedro-hint text-lg">Pedro - Aventura Ibérica</p>
             <p className="pedro-hint mt-2 text-base opacity-70">
                 Página informativa · 1875
             </p>

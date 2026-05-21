@@ -11,12 +11,12 @@ const FEATURES = [
     },
     {
         title: "Combate de cartas",
-        body: "Dominio, robo, descarte y la palabra Pedro. Gana sumas, favores y temple — o pierde ambos.",
+        body: "Dominio, robo, descarte y la palabra Pedro. Lucha por tu honor con tu libro de favores.",
         cards: [8, 19, 27],
         bg: "/assets/Background/MesaDeJuego.png",
     },
     {
-        title: "Favores y sublimes",
+        title: "Favores y bendiciónes",
         body: "Hasta seis favores antes de cada combate. Un sublime puede cambiar la partida entera.",
         cards: [3, 15, 31, 36],
         bg: null,
@@ -31,8 +31,9 @@ export function LandingFeatures() {
                     <span className="section-eyebrow">MECÁNICAS</span>
                     <h2 className="pedro-title pedro-title-xl mb-4 text-center">CÓMO FUNCIONA</h2>
                     <p className="pedro-hint pedro-hint-lg mx-auto mb-12 max-w-2xl text-center">
-                        Tres pilares definen cada partida: el camino, el duelo y la economía de
-                        favores.
+                        Tres pilares deciden tu destino. Los favores, 
+                        los trueques con el mercader y tus propias decisiones.
+
                     </p>
                 </RevealOnScroll>
 
