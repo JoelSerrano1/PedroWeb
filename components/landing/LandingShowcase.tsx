@@ -27,9 +27,11 @@ export function LandingShowcase() {
                 </div>
             </RevealOnScroll>
 
+            {/*
             <div className="landing-ranking-strip">
                 <RevealOnScroll delayClass="reveal-delay-1">
                     {/* eslint-disable-next-line @next/next/no-img-element */}
+                    {/*
                     <img
                         src="/assets/Background/Cartel_Ranking.png"
                         alt="Ranking de la cruzada"
@@ -38,6 +40,7 @@ export function LandingShowcase() {
                     />
                 </RevealOnScroll>
             </div>
+            */}
         </div>
     );
 }
