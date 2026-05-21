@@ -8,7 +8,7 @@ export function LandingFooter() {
                 alt=""
                 width={140}
                 height={46}
-                className="mx-auto mb-4 h-auto w-[800px] opacity-80"
+                className="mx-auto mb-4 h-auto w-28 opacity-80"
                 style={{ imageRendering: "pixelated" }}
             />
             <p className="pedro-hint text-lg">Pedro - Aventura Ibérica</p>
