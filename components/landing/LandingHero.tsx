@@ -25,7 +25,7 @@ export function LandingHero() {
                             width={400}
                             height={130}
                             priority
-                            className="h-auto w-96 md:w-64 lg:w-72"
+                            className="h-auto w-[650px] md:w-64 lg:w-72"
                             style={{ imageRendering: "pixelated" }}
                         />
                     </div>
