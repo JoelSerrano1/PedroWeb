@@ -16,11 +16,11 @@ const vt323 = VT323({
 });
 
 export const metadata: Metadata = {
-    title: "Pedro — La cruzada",
+    title: "Pedro — La Aventura Ibérica",
     description:
         "Página informativa del roguelike de cartas Pedro: mapa, combate, favores y plataformas (escritorio y móvil).",
     openGraph: {
-        title: "Pedro — La cruzada",
+        title: "Pedro — La Aventura Ibérica",
         description:
             "1875. Cartas. Favores. Y malas decisiones. Conoce el juego — sin jugar desde el navegador.",
     },

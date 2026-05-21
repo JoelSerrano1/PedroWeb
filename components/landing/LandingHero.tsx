@@ -30,7 +30,7 @@ export function LandingHero() {
                         />
                     </div>
 
-                    <h1 className="pedro-title pedro-title-xl mt-6 max-w-xl">LA CRUZADA</h1>
+                    <h1 className="pedro-title pedro-title-xl mt-6 max-w-xl">La Aventura Ibérica</h1>
 
                     <p className="pedro-hint pedro-hint-lg mt-4 max-w-lg mx-auto md:mx-0">
                         Cartas. Favores. Y malas decisiones.
