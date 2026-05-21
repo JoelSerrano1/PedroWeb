@@ -22,8 +22,8 @@ export function LandingHero() {
                         <Image
                             src="/assets/Icons/Logo.png"
                             alt="Pedro"
-                            width={400}
-                            height={130}
+                            width={500}
+                            height={230}
                             priority
                             className="h-auto w-52 md:w-64 lg:w-72"
                             style={{ imageRendering: "pixelated" }}
